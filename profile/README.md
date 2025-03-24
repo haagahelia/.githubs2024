@@ -5,15 +5,6 @@ Tällä kurssilla syvennämme ohjelmointiosaamistamme ja sovellamme aiemmin oppi
 Tämä kurssisivu täydentää Ohjelmointi 2 -toteutusten yhteistä [ohjelmointi2.github.io](https://ohjelmointi2.github.io)-sivustoa ja sisältää erityisesti tietoa virtual- ja online-toteutusten aikataulusta sekä käytännön järjestelyistä.
 
 
-## [](#) Online- ja virtual-toteutusten sisältö viikoittain
-
-Online-toteutuksen oppitunnit järjestetään kurssin Teams-kanavalla viikoittain **keskiviikkoisin klo 17.40 alkaen**. Virtual- ja online-toteutusten osallistujat ovat yhtä lailla tervetulleita osallistumaan Teams-oppitunneille tai opiskelemaan itsenäisesti riippumatta siitä, mikä sattuu olemaan juuri teidän oman toteutuksenne toteutustapa.
-
-Kurssin osasuorituksiin kuuluu viikoittaiset harjoitustehtävät kurssin eri osa-alueista. Tehtävien teknisessä toteutuksessa hyödynnetään GitHub classroom -palvelua sekä Teams-ryhmää. Tehtävät tulee palauttaa aikataulun mukaisesti eikä myöhästyneitä ratkaisuja lähtökohtaisesti huomioida. Force majeure -tapauksissa lisäaikaa tehtäviin tulee pyytää reilusti ennen tehtävän määräajan umpeutumista.
-
-[Linkki tunnilla läpikäytyihin koodiesimerkkeihin](https://github.com/javakurssi/Tuntimateriaalit)
-
-
 ### [](#) Viikko 1: Versionhallinta ja kurssin työkalut
 
 Kurssin ensimmäisellä viikolla tutustumme työkaluihin, joita tulemme hyödyntämään koko loppukurssin ajan. Tavoitteenamme on, että sovellusta voidaan suorittaa suoraviivaisesti myös koodieditorin ulkopuolella ja että sovelluksen kääntäminen, riippuvuuksien asentaminen, paketointi sekä testaaminen voidaan tarvittaessa automatisoida.
@@ -43,7 +34,7 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 29.10. klo 22)**
+**Tehtävät (DL 28.3.2025 klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -66,7 +57,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 * [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 * [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
 
-**Tehtävät (DL 5.11. klo 22)**
+**Tehtävät (DL 4.4.2025 klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -85,7 +76,7 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 * [Johdatus ohjelmien testaamiseen (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-6/3-johdatus-ohjelmien-testaamiseen)
 * [Ohjelmointi 2 kurssin JUnit materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/testaus/)
 
-**Tehtävät (DL 12.11. klo 22)**
+**Tehtävät (DL 11.4. klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -105,7 +96,7 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [Perintä ja rajapinnat (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-9)
 * [Ohjelmointi 2 kurssin perintä ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
 
-**Tehtävät (DL 19.11. klo 22)**
+**Tehtävät (DL 17.4. klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -130,7 +121,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 * [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
 * [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
 
-**Tehtävät (DL 26.11. klo 22)**
+**Tehtävät (DL 25.4.2025 klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -148,7 +139,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 * [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 * [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
 
-**Tehtävät (DL 3.12. klo 22)**
+**Tehtävät (DL 2.5. klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -188,7 +179,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 * [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
 * [Ohjelmointi 2 kurssin tietorakenteet ja algoritmit materiaali](https://ohjelmointi2.github.io/algoritmit/)
 
-**Tehtävät (DL 10.12. klo 22)**
+**Tehtävät (DL 9.5.2025 klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -209,7 +200,7 @@ Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm.
 * [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
 * [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
-**Tehtävät (DL 15.12. klo 22)**
+**Tehtävät (DL 15.5. klo 16:00)**
 
 Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
@@ -232,19 +223,9 @@ Tämän käytännön ei ole tarkoitus estää ketään opiskelemasta tai suoritt
 Kurssin keskeyttäminen ei ole [Haaga-Helian linjauksia](https://mynet.haaga-helia.fi/group/pakki/toteutukselle-ilmoittautuminen) noudattaen mahdollista enää osallistumisen vahvistamisen jälkeen.
 
 
-## [](#) 💬 Viestintäkanavat
-
-Tällä toteutuksella viestintä tapahtuu MS Teams -palvelussa. Jos jäät jumiin koodisi kanssa tai et ymmärrä materiaaleja tai tehtävänantoja, kysy rohkeasti vinkkejä. Todennäköisesti samaa ongelmaa pohtii kanssasi myös moni muu, joten lähetäthän sisältöä ja tehtävänantoja koskevat kysymykset yhteiselle kanavalle eikä yksityisviestinä.
-
-
-## [](#) 📥 Palautettavat tehtävät
-
-Kurssilla on viikoittaisia tehtäviä, jotka tulee palauttaa annettuihin määräaikoihin mennessä. Tehtävät löytyvät Teamsista, ja ne palautetaan GitHubiin. Apua tehtävien tekoon on saatavissa kurssin keskustelukanavalla niin opettajalta kuin muiltakin opiskelijoilta.
-
-
 ## [](#) 📊 Arviointi
 
-Kurssi arvioidaan asteikolla 0-5. Kurssin loppuarvosana lasketaan kurssin tehtävien keskiarvosta siten, että jokaisen viikon tehtävillä on sama painoarvo. Yksittäisten tehtävien arvosanoja ei pyöristetä, vaan mahdollinen pyöristys tehdään vasta loppuarvosanaa laskettaessa.
+Kurssi arvioidaan asteikolla 0-5. Kurssin loppuarvosana lasketaan kurssin tehtävien keskiarvosta siten, että jokaisen viikon tehtävillä on sama painoarvo. Yksittäisten tehtävien arvosanoja ei pyöristetä, vaan mahdollinen pyöristys tehdään vasta loppuarvosanaa laskettaessa. Puolet arvosanasta tulee projektityöstä.
 
 
 ## [](#) ⏱️ Kurssin työmäärä
@@ -268,7 +249,7 @@ System.out.println(tyomaaraPerViikko); // 16.875 tuntia per viikko
 
 Tämän kurssin materiaali perustuu suurelta osin valmiisiin netistä löytyviin dokumentaatioihin ja tutoriaaleihin. Eri aihealueiden yhteydessä tarjotaan linkkejä aihetta koskeviin materiaaleihin, mutta **joudut sen lisäksi merkittävissä määrin etsimään itse tietoa aiheista**.
 
-Kurssin tehtävien ei ole tarkoitus mitata, oletteko sisäistäneet oppitunnilla tai oppimateriaalissa esitetyt asiat, vaan tehtävien ratkaiseminen edellyttää itsenäistä tiedonhakua. Itsenäisen työskentelyn ohessa suosittelemme kysymään ja keskustelemaan aiheista kurssin Teams-kanvalla.
+Kurssin tehtävien ei ole tarkoitus mitata, oletteko sisäistäneet oppitunnilla tai oppimateriaalissa esitetyt asiat, vaan tehtävien ratkaiseminen edellyttää itsenäistä tiedonhakua. 
 
 
 ## [](#) 📑 Lähteiden käyttäminen
