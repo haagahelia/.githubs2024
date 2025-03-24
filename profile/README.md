@@ -1,4 +1,4 @@
-# [](#) Ohjelmointi 2
+# [](#) Ohjelmointi 2 kevät 2025
 
 Tällä kurssilla syvennämme ohjelmointiosaamistamme ja sovellamme aiemmin oppimianne ohjelmointitaitoja mm. tietokantojen parissa. Syvennymme kielen syntaksin ja tarvittavien kirjastojen lisäksi myös yksikkötestaukseen, automaatiotyökaluihin sekä versionhallintaan.
 
