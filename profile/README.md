@@ -34,9 +34,9 @@ Kurssin Java-sisältö kertaa Ohjelmointi 1:llä käsiteltyjä aiheita ja tavoit
 
 * [Gradle tutorial for complete beginners (YouTube)](https://youtu.be/-dtcEMLNmn0)
 
-**Tehtävät (DL 28.3.2025 klo 16:00)**
+**Tehtävät (DL su 30.3.2025 klo 23:59)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * Git "Hello world"
 * Warming up (kurssin lämmittelytehtävät)
@@ -57,9 +57,9 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 * [Managing the Content of a Map (dev.java)](https://dev.java/learn/api/collections-framework/working-with-keys-and-values/)
 * [Ohjelmointi 2 kurssin map-materiaali](https://ohjelmointi2.github.io/map/)
 
-**Tehtävät (DL 4.4.2025 klo 16:00)**
+**Tehtävät (DL su 6.4.2025 klo 23:59)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * Map exercises
 
@@ -78,7 +78,7 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 
 **Tehtävät (DL 11.4. klo 16:00)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * JUnit exercise
 
@@ -98,7 +98,7 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 
 **Tehtävät (DL 17.4. klo 16:00)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * Interfaces and inheritance
 
@@ -123,7 +123,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 **Tehtävät (DL 25.4.2025 klo 16:00)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * Streams and Lambdas
 
@@ -141,7 +141,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 
 **Tehtävät (DL 2.5. klo 16:00)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * SQL databases (Chinook, JDBC & DAO)
 
@@ -181,7 +181,7 @@ Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
 
 **Tehtävät (DL 9.5.2025 klo 16:00)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * Sorting & Filtering
 
@@ -202,7 +202,7 @@ Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm.
 
 **Tehtävät (DL 15.5. klo 16:00)**
 
-Varsinaiset tehtävälinkit löydät Teamsista tehtävät-osiosta.
+Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
 * Commit history
 
