@@ -76,7 +76,7 @@ Tällä viikolla tutustumme JUnit-yksikkötestaukseen ja kirjoitamme omia yksikk
 * [Johdatus ohjelmien testaamiseen (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-6/3-johdatus-ohjelmien-testaamiseen)
 * [Ohjelmointi 2 kurssin JUnit materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/testaus/)
 
-**Tehtävät (DL 11.4. klo 16:00)**
+**Tehtävät (DL su 13.4. klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
@@ -96,7 +96,7 @@ Tällä viikolla syvennämme olio-ohjelmointiosaamistamme tutustumalla perintä�
 * [Perintä ja rajapinnat (mooc.fi)](https://ohjelmointi-20.mooc.fi/osa-9)
 * [Ohjelmointi 2 kurssin perintä ja rajapinnat materiaalit (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/perint%C3%A4-ja-rajapinnat/)
 
-**Tehtävät (DL 17.4. klo 16:00)**
+**Tehtävät (DL su 20.4. klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
@@ -121,7 +121,7 @@ Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 * [The Java 8 Stream API Tutorial (baeldung.com)](https://www.baeldung.com/java-8-streams)
 * [Ohjelmointi 2 kurssin stream-lambda-materiaali](https://ohjelmointi2.github.io/stream-lambda)
 
-**Tehtävät (DL 25.4.2025 klo 16:00)**
+**Tehtävät (DL su 27.4.2025 klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
@@ -139,7 +139,7 @@ Tällä viikolla opettelemme ensin muodostamaan yhteyden tietokantaan Java-ohjel
 * [Introduction to JDBC (baeldung.com)](https://www.baeldung.com/java-jdbc)
 * [Ohjelmointi 2 kurssin JDBC-materiaali, osin hieman vanhentunutta](https://ohjelmointi2.github.io/tietokannat/)
 
-**Tehtävät (DL 2.5. klo 16:00)**
+**Tehtävät (DL su 4.5. klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
@@ -179,7 +179,7 @@ Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 * [6 Data Structures Every Programmer Should Learn (medium.com)](https://medium.com/javarevisited/6-data-structures-every-programmer-should-learn-a24de0f3fc3b)
 * [Ohjelmointi 2 kurssin tietorakenteet ja algoritmit materiaali](https://ohjelmointi2.github.io/algoritmit/)
 
-**Tehtävät (DL 9.5.2025 klo 16:00)**
+**Tehtävät (DL su 11.5.2025 klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
@@ -200,7 +200,7 @@ Kurssin lopussa syvennämme ja sovellamme aikaisempia aiheita, ja perehdymme mm.
 * [Java Threads (w3schools.com)](https://www.w3schools.com/java/java_threads.asp)
 * [Ohjelmointi 2: rinnakkaisuus (ohjelmointi2.github.io)](https://ohjelmointi2.github.io/rinnakkaisuus/)
 
-**Tehtävät (DL 15.5. klo 16:00)**
+**Tehtävät (DL su 18.5. klo 23:59)**
 
 Varsinaiset tehtävälinkit löydät Moodlesta tehtävät-osiosta.
 
